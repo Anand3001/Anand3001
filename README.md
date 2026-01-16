@@ -1,14 +1,17 @@
- 👋 Hi, I'm Anand Raj  
+<div align="center">
 
-🎓 *BCA Student | Java Full Stack Developer | Backend-Focused Engineer*  
-📍 India 🇮🇳  
+# Hi, I'm Anand Raj👋  
+### BCA Student | Java Full Stack Developer | Backend-Focused Engineer 🚀  
+
+📍 Muzaffarpur, Bihar, India  
+
+</div>
 
 ---
 
-## 🚀 About Me  
-
+## 👨‍💻 About Me  
 - 🎓 Bachelor of Computer Applications (2023–2026)  
-- ☕ Java Full Stack Developer with strong OOP & backend fundamentals  
+- ☕ Java Full Stack Developer with strong OOP & backend fundamentals
 - 🌐 Experienced in building end-to-end web applications  
 - 🧠 Interested in Spring Boot, REST APIs & scalable systems  
 - 🔁 Passionate about learning clean code & best practices  
@@ -18,31 +21,34 @@
 
 ## 🛠️ Tech Stack  
 
-### 🔹 Frontend  
-- HTML5, CSS3, JavaScript  
-- React.js  
-- Bootstrap  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c, C++,js,html,css,tailwind,react, Spring, Spring Boot, mongodb, mysql, Oracle, git, github, vscode,postman" />
 
-### 🔹 Backend  
-- Java  
-- Spring Boot  
-- RESTful APIs  
+</p>
 
-### 🔹 Database  
-- MySQL  
-- MongoDB  
-
-### 🔹 Tools & Platforms  
-- Git & GitHub  
-- IntelliJ IDEA / VS Code  
-- Maven  
-- Postman
 
 ## 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:anandraj3001muz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anand3001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anand-raj-175346326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+</p>
 
-- 💼 LinkedIn: https://linkedin.com/in/anand-raj-175346326 
-- 🌐 Portfolio: https://anandrajportfolio01.netlify.app/
-- 📧 Email: anandraj3001muz@gmail.com
+---
+
+<div align="center">
+
+⭐ *“Learning, building, and growing one commit at a time.”*  
+
+</div>
+
 
 <!--
 **Anand3001/Anand3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
