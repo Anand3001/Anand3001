@@ -22,7 +22,8 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c, C++,js,html,css,tailwind,react, Spring, Spring Boot, mongodb, mysql, Oracle, git, github, vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman,scikitlearn,pandas,numpy" />
+
 
 </p>
 
