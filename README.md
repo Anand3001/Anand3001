@@ -36,17 +36,7 @@
 - Git & GitHub  
 - IntelliJ IDEA / VS Code  
 - Maven  
-- Postman  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anand3001&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand3001&layout=compact&theme=radical)
-
----
+- Postman
 
 ## 📫 Connect With Me  
 
